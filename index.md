@@ -308,8 +308,7 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need to bring your own computer ready to use <a href = "https://my.uq.edu.au/information-and-services/information-technology/internet-and-wifi/connecting-wifi"> UQ's Edurom wireless network.</a>
-  In addition, you will need access to the software described below and an up-to-date web browser.
+  you will need to provide your own computer with reliable internet connection. In addition, you will need access to the software described below and an up-to-date web browser.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
